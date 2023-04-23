@@ -3,4 +3,4 @@ In this repository, a python script was created to synchronizes two folders, nam
 
 # Test
 To run the code, open a terminal and paste the following command witht the right arguments:
-''python mycode.py --source [path to source folder] --replica [path to replica folder, if not given, new one will be created] --log [path to logging file, if not given, log_file.txt will be created] --interval [synchronization interval, default is 5 seconds]''
+'python mycode.py --source [path to source folder] --replica [path to replica folder, if not given, new one will be created] --log [path to logging file, if not given, log_file.txt will be created] --interval [synchronization interval, default is 5 seconds]'
